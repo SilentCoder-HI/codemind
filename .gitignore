@@ -1,0 +1,9 @@
+# Python virtualenv
+env/
+
+# Chroma vector database (recreated at runtime)
+vector_db/
+
+# Python bytecode caches
+__pycache__/
+*.pyc

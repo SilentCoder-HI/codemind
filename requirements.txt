@@ -1,0 +1,15 @@
+# RAG stack
+chromadb
+sentence-transformers
+
+# Web fetching / HTML parsing
+beautifulsoup4
+lxml
+requests
+
+# Model download (starter GGUF into models/)
+huggingface-hub
+
+# Optional: only needed if you run the llama.cpp backend (.gguf models).
+# If you use Ollama instead, you can skip this one.
+llama-cpp-python
